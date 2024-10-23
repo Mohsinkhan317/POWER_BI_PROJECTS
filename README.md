@@ -1,4 +1,4 @@
-# POWER_BI_PROJECTS
+# POWER_BI_PROJECT
 Here's a sample `README.md` file for your GitHub repository:
 
 ---
